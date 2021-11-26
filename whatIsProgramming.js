@@ -1,9 +1,14 @@
 /**
- * A general understanding of what programming is, will help contextualize how JavaScript works and what it can actually do.
+ * A general understanding of what programming is, will help contextualize how JavaScript works and what it can actually do. 
+ * It also gives you a better idea how programming actually works in a computer.
  * 
- * Computer programming is the act of giving a set of instructions to a computer to execute some action.
+ * Computer programming is the act of giving a set of instructions to a computer to execute some action. 
+ * Regarless of the language we use, programming allows us to store, maniuplate and organize data in a way that is much more
+ * efficient than if we were to do this with a simple pen and paper. 
  * 
- * A simple example would be, writing some function to add 2 numbers together.
+ * A simple example would be, writing some function to add 2 numbers together. While we could do this in our head very fast, we can't 
+ * do this for a set of 1 million numbers. BUT a computer can and it can keep track of each operation with incredible precision. And this 
+ * is the real power of programming, performing operations on huge sets of data with accuracy. 
  * 
  * This is pretty obvious, but what is less obvious is that computers don't actually understand a programming language like JavaScript by itself.
  * 
@@ -50,11 +55,10 @@
  * 
  * See how much more readable and less work that was in JavaScript? By using a high level language like JavaScript
  * we necessarily abstract away the complex and lengthy machine code that actually gets run on our computer under the
- * hood. Eventually our JavaScript will be broken down into the machine code above, but we don't have to concern ourselves 
- * with that, we just care about console.log()!
+ * hood. Eventually our JavaScript will be broken down into something close to the machine code above, but we don't have 
+ * to concern ourselves with that, we just care about console.log()!
  * 
- * 
- * 
- * 
+ * So that's a really brief intro into the broader world of computer programming, definitely an intersted topic that I 
+ * encoure you to dig into further. 
  * 
  */
