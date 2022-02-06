@@ -8,15 +8,20 @@
  * 
  * A simple example would be, writing some function to add 2 numbers together. While we could do this in our head very fast, we can't 
  * do this for a set of 1 million numbers. BUT a computer can and it can keep track of each operation with incredible precision. And this 
- * is the real power of programming, performing operations on huge sets of data with accuracy. 
+ * is an incredible power of computer programming, performing operations at scale. 
  * 
- * This is pretty obvious, but what is less obvious is that computers don't actually understand a programming language like JavaScript by itself.
+ * Interestingly enough when we think of a computer, most people immediately think of an Operating System (or OS) like Windows or Mac OS 
+ * and the various programs that you can run on it like Microsoft Word or Excel. But mopre fundamentally, your OS is actually a piece of software 
+ * or progam as well! (just like Word and Excel). In many cases, their are actually programs that are designed to ONLY work when they are run 
+ * inside other programs. For example, you have to run Microsoft Word inside an operating sytem that has all of the requiste tools and supporting
+ * software to make it work. So it is essentially dependent on a bunch of other software in order to work.
  * 
+ * In turn, a language like JavaScript isn't automatically understood by the hardware in your computer and just magically able to work.
  * As the saying goes, computers can only really understand 1's and 0's (or binary). This is often referred to as machine language or machine code
  * and it is the lowest level of instruction you can send a CPU.
  * 
- * The key takeaway here is that all other langauges including JavaScript have to be translated into machine code for the computer to actually 
- * understand them.
+ * The key takeaway here is that all other langauges including JavaScript have to be translated (using other software) into machine code for the 
+ * computer to actually understand them.
  * 
  * Over the years many programming languages have been created that are translated into machine code or sometimes other 'intermediate' 
  * languages like byte code before being again translated into machine code.
@@ -51,14 +56,15 @@
  *  
  * Here is the same thing in JavaScript
  * 
- *  console.log("Hello World!");
+ * console.log("Hello World!");
  * 
  * See how much more readable and less work that was in JavaScript? By using a high level language like JavaScript
  * we necessarily abstract away the complex and lengthy machine code that actually gets run on our computer under the
  * hood. Eventually our JavaScript will be broken down into something close to the machine code above, but we don't have 
  * to concern ourselves with that, we just care about console.log()!
  * 
+ * 
  * So that's a really brief intro into the broader world of computer programming, definitely an intersted topic that I 
- * encoure you to dig into further. 
+ * encourage you to dig into further. 
  * 
  */
